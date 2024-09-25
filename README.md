@@ -1,8 +1,8 @@
-# **Space Shmup Part 2** - ReadMe File
+# **Prospector Solitaire Part 1** - ReadMe File
 
 #### Author: *Quinten Ruff*
 
-##### Modified: *2024-09-22*
+##### Modified: *2024-09-25*
 
 
 <br>

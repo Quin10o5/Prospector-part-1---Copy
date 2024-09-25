@@ -14,9 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   icon: {fileID: 2800000, guid: c55cc35e40a404507a40a804fa1d4852, type: 3}
   iconMaxWidth: 128
-  projectName: Space Shmup Part 2
+  projectName: Prospector Solitaire Part 1
   author: Quinten Ruff
-  modificationDate: 2024-09-22
+  modificationDate: 2024-09-25
   sections:
   - heading: 0. What is the link to your project on itch.io?
     text: https://quintenruff.itch.io/space-shmup-part-2-quinten-ruff
