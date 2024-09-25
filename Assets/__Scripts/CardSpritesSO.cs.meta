@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 08c6bc3f60c81a84090db3e9c440c31d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cardBack: {fileID: 21300000, guid: a8185ed8d47594bb8a3b8e2d9233f769, type: 3}
+  - cardBackGold: {fileID: 21300000, guid: 8ecf4828943064b3a96f6258b54c0f11, type: 3}
+  - cardFront: {fileID: 21300000, guid: 873a7658b7ec742228520c7b15510f4d, type: 3}
+  - cardFrontGold: {instanceID: 0}
+  - suitClub: {instanceID: 0}
+  - suitDiamond: {instanceID: 0}
+  - suitHeart: {instanceID: 0}
+  - suitSpade: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

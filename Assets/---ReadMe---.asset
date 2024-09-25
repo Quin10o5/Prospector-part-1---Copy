@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc24ba1982d984280970029348e294a3, type: 3}
+  m_Name: ---ReadMe---
+  m_EditorClassIdentifier: 
+  icon: {fileID: 2800000, guid: c55cc35e40a404507a40a804fa1d4852, type: 3}
+  iconMaxWidth: 128
+  projectName: Space Shmup Part 2
+  author: Quinten Ruff
+  modificationDate: 2024-09-22
+  sections:
+  - heading: 0. What is the link to your project on itch.io?
+    text: https://quintenruff.itch.io/space-shmup-part-2-quinten-ruff
+  - heading: 1. What are the controls to your game? How do we play?
+    text: 'WASD keys to move and space bar to fire. Press on a arrow key direction
+      for a quick dash with a cooldown.
+
+
+      Try to shoot the enemy ships!'
+  - heading: 2. What creative additions did you make? How can we find them?
+    text: '1. Rebalanced and Reworked Guns
+
+      - changed gun system to add all
+      new guns to open slots, no longer wiping out guns you already collected and
+      just adding them to the ships total
+
+      2. Reworked powerups
+
+      - when
+      you have filled your ships with guns, only shield powerups will spawn, no longer
+      wasting the gun ones.
+
+      3. Added quick dash
+
+      - press left or right
+      arrow keys to do a quick dash in that direction
+
+      - added particle system
+      to show dash visually
+
+      - added timer that shows the delay until next
+      dash is available'
+  - heading: 3. Any assets used that you didn't create yourself?
+    text: The ones from the book
+  - heading: 4. Did you receive help from anyone outside this class or from anyone
+      in this class that is not in a group with you?
+    text: No
+  - heading: 5. Did you get help from any AI Code Assistants?
+    text: 'Used chat GPT to find out how to alter a particle systems shape in code
+
+
+      var
+      shape = leapParticles.shape;'
+  - heading: 6. Did you get help from any online websites, videos, or tutorials?
+    text: No
+  - heading: 7. What trouble did you have with this project?
+    text: None
+  - heading: 8. Is there anything else we should know?
+    text: No
+  showReadMeEditor: 1
